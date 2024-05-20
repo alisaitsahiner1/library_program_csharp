@@ -1,0 +1,64 @@
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.exe
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.deps.json
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.runtimeconfig.json
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.pdb
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.csproj.AssemblyReference.cache
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.Form1.resources
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.csproj.GenerateResource.cache
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.AssemblyInfo.cs
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.csproj.CopyComplete
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\refint\KitapKayit2.dll
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.pdb
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.genruntimeconfig.cache
+C:\Users\alisa\source\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\ref\KitapKayit2.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.exe
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.deps.json
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.runtimeconfig.json
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\KitapKayit2.pdb
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.Form1.resources
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.csproj.GenerateResource.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.AssemblyInfoInputs.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.AssemblyInfo.cs
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKay.2B9BF2AB.Up2Date
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\refint\KitapKayit2.dll
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.pdb
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\KitapKayit2.genruntimeconfig.cache
+C:\Users\alisa\Desktop\Format Yedekleme\Unity,VS , Vivado ,PostgreSql projeleri\Visual Studio Projeleri\repos\KitapKayit2\KitapKayit2\obj\Debug\net6.0-windows\ref\KitapKayit2.dll
